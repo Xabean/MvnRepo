@@ -6,23 +6,29 @@
 #### 软件架构
 软件架构说明
 
-xabean.log4s_2.12
+使用Scala编写，并基于SLF4J进行二次开发。
 
 #### 安装教程
 
 1. Maven
 ```
-https://gitee.com/Bingeneral/MvnRepo/tree/master
-<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
+<repositories>
+    <repository>
+        <id>MvnRepo</id>
+        <url>https://gitee.com/Bingeneral/MvnRepo/raw/master</url>
+    </repository>
+</repositories>
+<!-- https://gitee.com/Bingeneral/MvnRepo/tree/master -->
 <dependency>
     <groupId>xabean</groupId>
     <artifactId>log4s_2.12</artifactId>
     <version>0.0</version>
 </dependency>
 ```
-2. SBT
+2. sbt
 ```
-// https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind
+resolvers += "MvnRepo" at "https://gitee.com/Bingeneral/MvnRepo/raw/master"
+// https://gitee.com/Bingeneral/MvnRepo/tree/master
 libraryDependencies += "xabean" % "log4s_2.12" % "0.0"
 ```
 

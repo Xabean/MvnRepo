@@ -41,4 +41,4 @@ libraryDependencies += "xabean" % "log4s_2.11" % "0.0"
 
 #### 使用说明
 
-请查看LoggerBridge的文档注释。
+推荐查看LoggerBridge的文档注释，也可先行查看[Doc](https://bingeneral.gitee.io/mvnrepo)。

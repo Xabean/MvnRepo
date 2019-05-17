@@ -12,12 +12,6 @@
 
 1. Maven
 ```
-<repositories>
-    <repository>
-        <id>MvnRepo</id>
-        <url>https://gitee.com/Bingeneral/MvnRepo/raw/master</url>
-    </repository>
-</repositories>
 <!-- https://gitee.com/Bingeneral/MvnRepo/tree/master -->
 <dependency>
     <groupId>xabean</groupId>
@@ -27,13 +21,11 @@
 ```
 2. Gradle Kotlin DSL build script
 ```
-repositories { maven("https://gitee.com/Bingeneral/MvnRepo/raw/master") }
 // https://gitee.com/Bingeneral/MvnRepo/tree/master
 implementation("xabean:log4s_2.11:0.1")
 ```
 3. sbt
 ```
-resolvers += "MvnRepo" at "https://gitee.com/Bingeneral/MvnRepo/raw/master"
 // https://gitee.com/Bingeneral/MvnRepo/tree/master
 libraryDependencies += "xabean" % "log4s_2.11" % "0.1"
 ```

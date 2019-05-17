@@ -1,7 +1,7 @@
-# MvnRepo
+# Log4s
 
 #### 介绍
-个人Maven仓库
+日志框架
 
 #### 软件架构
 软件架构说明
@@ -41,4 +41,4 @@ libraryDependencies += "xabean" % "log4s_2.11" % "0.1"
 
 #### 使用说明
 
-推荐查看LoggerBridge的文档注释，也可先行查看[Doc](https://bingeneral.gitee.io/mvnrepo)。
+请查看LoggerBridge的文档注释。

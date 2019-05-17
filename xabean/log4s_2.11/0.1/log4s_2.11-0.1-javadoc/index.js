@@ -1,1 +1,0 @@
-Index.PACKAGES = {"xabean" : [], "xabean.log4s" : [{"class" : "xabean\/log4s\/LoggerBridge.html", "name" : "xabean.log4s.LoggerBridge"}, {"trait" : "xabean\/log4s\/LoggerComponent.html", "name" : "xabean.log4s.LoggerComponent"}, {"class" : "xabean\/log4s\/Target.html", "name" : "xabean.log4s.Target"}]};

@@ -5,7 +5,7 @@
     <artifactId>logudpserver_2.11</artifactId>
     <packaging>jar</packaging>
     <description>LogUDPServer</description>
-    <version>0.1</version>
+    <version>0.2</version>
     <name>LogUDPServer</name>
     <organization>
         <name>xabean</name>

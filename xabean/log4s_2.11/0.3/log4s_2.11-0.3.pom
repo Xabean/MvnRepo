@@ -5,7 +5,7 @@
     <artifactId>log4s_2.11</artifactId>
     <packaging>jar</packaging>
     <description>Log4s</description>
-    <version>0.2</version>
+    <version>0.3</version>
     <name>Log4s</name>
     <organization>
         <name>xabean</name>

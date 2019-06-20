@@ -16,18 +16,18 @@ Flume配置文件生成器
 <dependency>
     <groupId>xabean</groupId>
     <artifactId>flumeconfgen_2.11</artifactId>
-    <version>0.0</version>
+    <version>0.1</version>
 </dependency>
 ```
 2. Gradle Kotlin DSL build script
 ```
 // https://gitee.com/Bingeneral/MvnRepo/tree/master
-implementation("xabean:flumeconfgen_2.11:0.0")
+implementation("xabean:flumeconfgen_2.11:0.1")
 ```
 3. sbt
 ```
 // https://gitee.com/Bingeneral/MvnRepo/tree/master
-libraryDependencies += "xabean" % "flumeconfgen_2.11" % "0.0"
+libraryDependencies += "xabean" % "flumeconfgen_2.11" % "0.1"
 ```
 
 #### 使用说明

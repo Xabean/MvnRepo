@@ -5,7 +5,7 @@
     <artifactId>flumeconfgen_2.11</artifactId>
     <packaging>jar</packaging>
     <description>FlumeConfGen</description>
-    <version>0.4</version>
+    <version>0.5</version>
     <name>FlumeConfGen</name>
     <organization>
         <name>xabean</name>

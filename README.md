@@ -7,7 +7,7 @@
 
 1. [Log4s](https://gitee.com/Bingeneral/MvnRepo/tree/master/xabean/log4s_2.11)
 2. [LogUDPServer](https://gitee.com/Bingeneral/MvnRepo/tree/master/xabean/logudpserver_2.11)
-2. [FlumeConfGen](https://gitee.com/Bingeneral/MvnRepo/tree/master/xabean/flumeconfgen_2.11)
+3. [FlumeWorkflow](https://gitee.com/Bingeneral/MvnRepo/tree/master/xabean/flumeworkflow_2.11)
 
 #### 安装教程
 

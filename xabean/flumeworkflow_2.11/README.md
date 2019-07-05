@@ -1,7 +1,7 @@
-# FlumeConfGen
+# FlumeWorkflow
 
 #### 介绍
-Flume配置文件生成器
+一键式灵活完成Flume工作流
 
 #### 软件架构
 软件架构说明
@@ -15,21 +15,21 @@ Flume配置文件生成器
 <!-- https://gitee.com/Bingeneral/MvnRepo/tree/master -->
 <dependency>
     <groupId>xabean</groupId>
-    <artifactId>flumeconfgen_2.11</artifactId>
-    <version>0.6</version>
+    <artifactId>flumeworkflow_2.11</artifactId>
+    <version>0.7</version>
 </dependency>
 ```
 2. Gradle Kotlin DSL build script
 ```
 // https://gitee.com/Bingeneral/MvnRepo/tree/master
-implementation("xabean:flumeconfgen_2.11:0.6")
+implementation("xabean:flumeworkflow_2.11:0.7")
 ```
 3. sbt
 ```
 // https://gitee.com/Bingeneral/MvnRepo/tree/master
-libraryDependencies += "xabean" % "flumeconfgen_2.11" % "0.6"
+libraryDependencies += "xabean" % "flumeworkflow_2.11" % "0.7"
 ```
 
 #### 使用说明
 
-请查看PropsFileGenerator主方法的文档注释。
+请查看FlumeWorkflowEngine主函数的文档注释。

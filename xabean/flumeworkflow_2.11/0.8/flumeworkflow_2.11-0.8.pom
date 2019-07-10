@@ -5,7 +5,7 @@
     <artifactId>flumeworkflow_2.11</artifactId>
     <packaging>jar</packaging>
     <description>FlumeWorkflow</description>
-    <version>0.7</version>
+    <version>0.8</version>
     <name>FlumeWorkflow</name>
     <organization>
         <name>xabean</name>

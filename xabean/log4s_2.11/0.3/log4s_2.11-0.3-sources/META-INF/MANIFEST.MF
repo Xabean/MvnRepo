@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Specification-Vendor: xabean
-Specification-Title: Log4s
-Specification-Version: 0.3
-

@@ -5,7 +5,7 @@
 
 #### 仓库目录
 
-1. [Log4s](https://gitee.com/Bingeneral/MvnRepo/tree/master/xabean/log4s_2.11)
+1. [log4s-core](https://gitee.com/Bingeneral/MvnRepo/tree/master/xabean/log4s-core_2.11)
 2. [LogUDPServer](https://gitee.com/Bingeneral/MvnRepo/tree/master/xabean/logudpserver_2.11)
 3. [FlumeWorkflow](https://gitee.com/Bingeneral/MvnRepo/tree/master/xabean/flumeworkflow_2.11)
 

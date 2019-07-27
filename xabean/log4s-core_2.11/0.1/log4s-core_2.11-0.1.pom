@@ -5,7 +5,7 @@
     <artifactId>log4s-core_2.11</artifactId>
     <packaging>jar</packaging>
     <description>log4s-core</description>
-    <version>0.0</version>
+    <version>0.1</version>
     <name>log4s-core</name>
     <organization>
         <name>xabean</name>
@@ -18,7 +18,7 @@
         </dependency>
         <dependency>
             <groupId>xabean</groupId>
-            <artifactId>xabean_2.11</artifactId>
+            <artifactId>common_2.11</artifactId>
             <version>0.0</version>
         </dependency>
         <dependency>

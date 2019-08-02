@@ -2,11 +2,11 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
     <groupId>xabean</groupId>
-    <artifactId>flumeworkflow_2.11</artifactId>
+    <artifactId>flume-workflow_2.11</artifactId>
     <packaging>jar</packaging>
-    <description>FlumeWorkflow</description>
-    <version>0.8</version>
-    <name>FlumeWorkflow</name>
+    <description>flume-workflow</description>
+    <version>0.0</version>
+    <name>flume-workflow</name>
     <organization>
         <name>xabean</name>
     </organization>
@@ -17,10 +17,9 @@
             <version>2.11.12</version>
         </dependency>
         <dependency>
-            <groupId>org.scalatest</groupId>
-            <artifactId>scalatest_2.11</artifactId>
-            <version>3.0.5</version>
-            <scope>test</scope>
+            <groupId>xabean</groupId>
+            <artifactId>log4s-core_2.11</artifactId>
+            <version>0.1</version>
         </dependency>
         <dependency>
             <groupId>org.apache.flume</groupId>
@@ -41,22 +40,9 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>xabean</groupId>
-            <artifactId>log4s_2.11</artifactId>
-            <version>0.3</version>
-        </dependency>
-        <dependency>
             <groupId>com.fasterxml.jackson.dataformat</groupId>
             <artifactId>jackson-dataformat-properties</artifactId>
             <version>2.9.9</version>
         </dependency>
     </dependencies>
-    <repositories>
-        <repository>
-            <id>MvnRepo</id>
-            <name>MvnRepo</name>
-            <url>https://gitee.com/Bingeneral/MvnRepo/raw/master/</url>
-            <layout>default</layout>
-        </repository>
-    </repositories>
 </project>

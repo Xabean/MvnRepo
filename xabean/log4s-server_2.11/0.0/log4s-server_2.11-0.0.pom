@@ -2,11 +2,11 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
     <groupId>xabean</groupId>
-    <artifactId>logudpserver_2.11</artifactId>
+    <artifactId>log4s-server_2.11</artifactId>
     <packaging>jar</packaging>
-    <description>LogUDPServer</description>
-    <version>0.2</version>
-    <name>LogUDPServer</name>
+    <description>log4s-server</description>
+    <version>0.0</version>
+    <name>log4s-server</name>
     <organization>
         <name>xabean</name>
     </organization>
@@ -17,23 +17,14 @@
             <version>2.11.12</version>
         </dependency>
         <dependency>
-            <groupId>org.scalatest</groupId>
-            <artifactId>scalatest_2.11</artifactId>
-            <version>3.0.5</version>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
             <groupId>xabean</groupId>
-            <artifactId>log4s_2.11</artifactId>
+            <artifactId>log4s-core_2.11</artifactId>
             <version>0.1</version>
         </dependency>
+        <dependency>
+            <groupId>io.reactivex</groupId>
+            <artifactId>rxscala_2.11</artifactId>
+            <version>0.26.5</version>
+        </dependency>
     </dependencies>
-    <repositories>
-        <repository>
-            <id>MvnRepo</id>
-            <name>MvnRepo</name>
-            <url>https://gitee.com/Bingeneral/MvnRepo/raw/master/</url>
-            <layout>default</layout>
-        </repository>
-    </repositories>
 </project>

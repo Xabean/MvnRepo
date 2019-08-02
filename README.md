@@ -7,7 +7,7 @@
 
 1. [common](https://gitee.com/Bingeneral/MvnRepo/tree/master/xabean/common_2.11)
 2. [log4s-core](https://gitee.com/Bingeneral/MvnRepo/tree/master/xabean/log4s-core_2.11)
-3. [LogUDPServer](https://gitee.com/Bingeneral/MvnRepo/tree/master/xabean/logudpserver_2.11)
+3. [log4s-server](https://gitee.com/Bingeneral/MvnRepo/tree/master/xabean/log4s-server_2.11)
 4. [FlumeWorkflow](https://gitee.com/Bingeneral/MvnRepo/tree/master/xabean/flumeworkflow_2.11)
 
 #### 安装教程

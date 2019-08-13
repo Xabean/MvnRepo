@@ -10,6 +10,7 @@
 3. [log4s-server](https://gitee.com/Bingeneral/MvnRepo/tree/master/xabean/log4s-server_2.11)
 4. [flume-workflow](https://gitee.com/Bingeneral/MvnRepo/tree/master/xabean/flume-workflow_2.11)
 5. [spark-core](https://gitee.com/Bingeneral/MvnRepo/tree/master/xabean/spark-core_2.11)
+6. [spark-sql](https://gitee.com/Bingeneral/MvnRepo/tree/master/xabean/spark-sql_2.11)
 
 #### 安装教程
 

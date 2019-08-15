@@ -16,18 +16,18 @@
 <dependency>
     <groupId>xabean</groupId>
     <artifactId>flume-workflow_2.11</artifactId>
-    <version>0.0</version>
+    <version>0.1</version>
 </dependency>
 ```
 2. Gradle Kotlin DSL build script
 ```
 // https://gitee.com/Bingeneral/MvnRepo/tree/master
-implementation("xabean:flume-workflow_2.11:0.0")
+implementation("xabean:flume-workflow_2.11:0.1")
 ```
 3. sbt
 ```
 // https://gitee.com/Bingeneral/MvnRepo/tree/master
-libraryDependencies += "xabean" % "flume-workflow_2.11" % "0.0"
+libraryDependencies += "xabean" % "flume-workflow_2.11" % "0.1"
 ```
 
 #### 使用说明

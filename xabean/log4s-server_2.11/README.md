@@ -27,7 +27,7 @@ implementation("xabean:log4s-server_2.11:0.2")
 3. sbt
 ```
 // https://gitee.com/Bingeneral/MvnRepo/tree/master
-libraryDependencies += "xabean" % "log4s-server_2.11" % "0.2"
+libraryDependencies += "xabean" % "log4s-server_2.11" % "0.3"
 ```
 
 #### 使用说明

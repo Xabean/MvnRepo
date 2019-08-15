@@ -27,7 +27,7 @@ implementation("xabean:log4s-core_2.11:0.5")
 3. sbt
 ```
 // https://gitee.com/Bingeneral/MvnRepo/tree/master
-libraryDependencies += "xabean" % "log4s-core_2.11" % "0.5"
+libraryDependencies += "xabean" % "log4s-core_2.11" % "0.6"
 ```
 4. 如果需要Dagger2来完成依赖注入，请参考[使用gradle.kts构建Dagger2(Scala+Java)架构项目](https://www.bilibili.com/read/cv2652939)。
 

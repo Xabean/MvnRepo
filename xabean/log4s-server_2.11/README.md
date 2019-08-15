@@ -16,18 +16,18 @@
 <dependency>
     <groupId>xabean</groupId>
     <artifactId>log4s-server_2.11</artifactId>
-    <version>0.1</version>
+    <version>0.2</version>
 </dependency>
 ```
 2. Gradle Kotlin DSL build script
 ```
 // https://gitee.com/Bingeneral/MvnRepo/tree/master
-implementation("xabean:log4s-server_2.11:0.1")
+implementation("xabean:log4s-server_2.11:0.2")
 ```
 3. sbt
 ```
 // https://gitee.com/Bingeneral/MvnRepo/tree/master
-libraryDependencies += "xabean" % "log4s-server_2.11" % "0.1"
+libraryDependencies += "xabean" % "log4s-server_2.11" % "0.2"
 ```
 
 #### 使用说明

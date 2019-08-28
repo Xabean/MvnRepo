@@ -5,7 +5,7 @@
     <artifactId>spark-sql_2.11</artifactId>
     <packaging>jar</packaging>
     <description>spark-sql</description>
-    <version>0.5</version>
+    <version>0.6</version>
     <name>spark-sql</name>
     <organization>
         <name>xabean</name>

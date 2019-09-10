@@ -6,13 +6,13 @@
 #### 软件架构
 软件架构说明
 
-依赖[spark-core](https://gitee.com/Bingeneral/MvnRepo/tree/master/xabean/spark-core_2.11)。
+依赖[spark-core](https://github.com/Xabean/MvnRepo/tree/master/xabean/spark-core_2.11)。
 
 #### 安装教程
 
 1. Maven
 ```
-<!-- https://gitee.com/Bingeneral/MvnRepo/tree/master -->
+<!-- https://github.com/Xabean/MvnRepo/tree/master -->
 <dependency>
     <groupId>xabean</groupId>
     <artifactId>spark-sql_2.11</artifactId>
@@ -21,12 +21,12 @@
 ```
 2. Gradle Kotlin DSL build script
 ```
-// https://gitee.com/Bingeneral/MvnRepo/tree/master
+// https://github.com/Xabean/MvnRepo/tree/master
 implementation("xabean:spark-sql_2.11:0.7")
 ```
 3. sbt
 ```
-// https://gitee.com/Bingeneral/MvnRepo/tree/master
+// https://github.com/Xabean/MvnRepo/tree/master
 libraryDependencies += "xabean" % "spark-sql_2.11" % "0.7"
 ```
 

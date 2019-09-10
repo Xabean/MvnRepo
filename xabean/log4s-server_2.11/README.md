@@ -6,13 +6,13 @@
 #### 软件架构
 软件架构说明
 
-项目构建完成后可打包为Jar直接运行，依赖[log4s-core](https://gitee.com/Bingeneral/MvnRepo/tree/master/xabean/log4s-core_2.11)。
+项目构建完成后可打包为Jar直接运行，依赖[log4s-core](https://github.com/Xabean/MvnRepo/tree/master/xabean/log4s-core_2.11)。
 
 #### 安装教程
 
 1. Maven
 ```
-<!-- https://gitee.com/Bingeneral/MvnRepo/tree/master -->
+<!-- https://github.com/Xabean/MvnRepo/tree/master -->
 <dependency>
     <groupId>xabean</groupId>
     <artifactId>log4s-server_2.11</artifactId>
@@ -21,12 +21,12 @@
 ```
 2. Gradle Kotlin DSL build script
 ```
-// https://gitee.com/Bingeneral/MvnRepo/tree/master
+// https://github.com/Xabean/MvnRepo/tree/master
 implementation("xabean:log4s-server_2.11:0.5")
 ```
 3. sbt
 ```
-// https://gitee.com/Bingeneral/MvnRepo/tree/master
+// https://github.com/Xabean/MvnRepo/tree/master
 libraryDependencies += "xabean" % "log4s-server_2.11" % "0.5"
 ```
 

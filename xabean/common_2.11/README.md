@@ -12,7 +12,7 @@
 
 1. Maven
 ```
-<!-- https://gitee.com/Bingeneral/MvnRepo/tree/master -->
+<!-- https://github.com/Xabean/MvnRepo/tree/master -->
 <dependency>
     <groupId>xabean</groupId>
     <artifactId>common_2.11</artifactId>
@@ -21,12 +21,12 @@
 ```
 2. Gradle Kotlin DSL build script
 ```
-// https://gitee.com/Bingeneral/MvnRepo/tree/master
+// https://github.com/Xabean/MvnRepo/tree/master
 implementation("xabean:common_2.11:0.2")
 ```
 3. sbt
 ```
-// https://gitee.com/Bingeneral/MvnRepo/tree/master
+// https://github.com/Xabean/MvnRepo/tree/master
 libraryDependencies += "xabean" % "common_2.11" % "0.2"
 ```
 

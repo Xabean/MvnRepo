@@ -12,7 +12,7 @@
 
 1. Maven
 ```
-<!-- https://gitee.com/Bingeneral/MvnRepo/tree/master -->
+<!-- https://github.com/Xabean/MvnRepo/tree/master -->
 <dependency>
     <groupId>xabean</groupId>
     <artifactId>log4s-core_2.11</artifactId>
@@ -21,12 +21,12 @@
 ```
 2. Gradle Kotlin DSL build script
 ```
-// https://gitee.com/Bingeneral/MvnRepo/tree/master
+// https://github.com/Xabean/MvnRepo/tree/master
 implementation("xabean:log4s-core_2.11:0.8")
 ```
 3. sbt
 ```
-// https://gitee.com/Bingeneral/MvnRepo/tree/master
+// https://github.com/Xabean/MvnRepo/tree/master
 libraryDependencies += "xabean" % "log4s-core_2.11" % "0.8"
 ```
 4. 如果需要Dagger2来完成依赖注入，请参考[使用gradle.kts构建Dagger2(Scala+Java)架构项目](https://www.bilibili.com/read/cv2652939)。

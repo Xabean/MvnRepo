@@ -11,6 +11,7 @@
 4. [flume-workflow](https://github.com/Xabean/MvnRepo/tree/master/xabean/flume-workflow_2.11)
 5. [spark-core](https://github.com/Xabean/MvnRepo/tree/master/xabean/spark-core_2.11)
 6. [spark-sql](https://github.com/Xabean/MvnRepo/tree/master/xabean/spark-sql_2.11)
+7. [kafka-sh](https://github.com/Xabean/MvnRepo/tree/master/xabean/kafka-sh_2.11)
 
 #### 安装教程
 

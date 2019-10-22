@@ -6,7 +6,7 @@
 #### 软件架构
 软件架构说明
 
-项目构建完成后可打包为Jar直接运行，依赖[log4s-core](https://github.com/Xabean/MvnRepo/tree/master/xabean/log4s-core_2.11)。
+项目构建完成后可打包为Jar直接运行，依赖[batsh](https://github.com/Xabean/MvnRepo/tree/master/xabean/batsh_2.11)。
 
 #### 安装教程
 
@@ -16,18 +16,18 @@
 <dependency>
     <groupId>xabean</groupId>
     <artifactId>flume-workflow_2.11</artifactId>
-    <version>0.6</version>
+    <version>0.7</version>
 </dependency>
 ```
 2. Gradle Kotlin DSL build script
 ```
 // https://github.com/Xabean/MvnRepo/tree/master
-implementation("xabean:flume-workflow_2.11:0.6")
+implementation("xabean:flume-workflow_2.11:0.7")
 ```
 3. sbt
 ```
 // https://github.com/Xabean/MvnRepo/tree/master
-libraryDependencies += "xabean" % "flume-workflow_2.11" % "0.6"
+libraryDependencies += "xabean" % "flume-workflow_2.11" % "0.7"
 ```
 
 #### 使用说明

@@ -16,18 +16,18 @@
 <dependency>
     <groupId>xabean</groupId>
     <artifactId>common_2.11</artifactId>
-    <version>0.2</version>
+    <version>0.3</version>
 </dependency>
 ```
 2. Gradle Kotlin DSL build script
 ```
 // https://github.com/Xabean/MvnRepo/tree/master
-implementation("xabean:common_2.11:0.2")
+implementation("xabean:common_2.11:0.3")
 ```
 3. sbt
 ```
 // https://github.com/Xabean/MvnRepo/tree/master
-libraryDependencies += "xabean" % "common_2.11" % "0.2"
+libraryDependencies += "xabean" % "common_2.11" % "0.3"
 ```
 
 #### 使用说明

@@ -16,25 +16,25 @@
 <dependency>
     <groupId>xabean</groupId>
     <artifactId>batsh_2.11</artifactId>
-    <version>0.0</version>
+    <version>0.1</version>
 </dependency>
 ```
 2. Gradle Kotlin DSL build script
 ```
 // https://github.com/Xabean/MvnRepo/tree/master
-implementation("xabean:batsh_2.11:0.0")
+implementation("xabean:batsh_2.11:0.1")
 ```
 3. sbt
 ```
 // https://github.com/Xabean/MvnRepo/tree/master
-libraryDependencies += "xabean" % "batsh_2.11" % "0.0"
+libraryDependencies += "xabean" % "batsh_2.11" % "0.1"
 ```
 
 #### 使用说明
 
 1. 请查看BatShExecutor主函数的文档注释；
 2. 构建可执行jar包；
-3. 执行命令运行程序：```java -jar batsh-assembly-0.0.jar```
+3. 执行命令运行程序：```java -jar batsh-assembly-0.1.jar```
 4. 执行结果如下： 
 ```
 这是模板命令示例->第一个参数为：p、第二个参数为：propA、第三个参数为：valueA，具体写法请传入-h选项查看使用帮助。
@@ -42,7 +42,7 @@ libraryDependencies += "xabean" % "batsh_2.11" % "0.0"
 这是模板命令示例->第一个参数为：p、第二个参数为：props、第三个参数为：arrayValue1，具体写法请传入-h选项查看使用帮助。
 这是模板命令示例->第一个参数为：p、第二个参数为：props、第三个参数为：arrayValue2，具体写法请传入-h选项查看使用帮助。
 ```
-5. 传入-h选项查看具体写法：```java -jar batsh-assembly-0.0.jar -h```
+5. 传入-h选项查看具体写法：```java -jar batsh-assembly-0.1.jar -h```
 6. 上述运行结果中第二、三参数实际为从Jar包里的example.properties中提取出来的数据，文件内容如下：   
 ```
 propA=valueA

@@ -6,13 +6,14 @@
 #### 仓库目录
 
 1. [common](https://github.com/Xabean/MvnRepo/tree/master/xabean/common_2.11)
-2. [log4s-core](https://github.com/Xabean/MvnRepo/tree/master/xabean/log4s-core_2.11)
-3. [log4s-server](https://github.com/Xabean/MvnRepo/tree/master/xabean/log4s-server_2.11)
-4. [batsh](https://github.com/Xabean/MvnRepo/tree/master/xabean/batsh_2.11)
-5. [flume-workflow](https://github.com/Xabean/MvnRepo/tree/master/xabean/flume-workflow_2.11)
-6. [spark-core](https://github.com/Xabean/MvnRepo/tree/master/xabean/spark-core_2.11)
-7. [spark-sql](https://github.com/Xabean/MvnRepo/tree/master/xabean/spark-sql_2.11)
-8. [ml](https://github.com/Xabean/MvnRepo/tree/master/xabean/ml_2.11)
+2. [kafka](https://github.com/Xabean/MvnRepo/tree/master/xabean/kafka_2.11)
+3. [log4s-core](https://github.com/Xabean/MvnRepo/tree/master/xabean/log4s-core_2.11)
+4. [log4s-server](https://github.com/Xabean/MvnRepo/tree/master/xabean/log4s-server_2.11)
+5. [batsh](https://github.com/Xabean/MvnRepo/tree/master/xabean/batsh_2.11)
+6. [flume-workflow](https://github.com/Xabean/MvnRepo/tree/master/xabean/flume-workflow_2.11)
+7. [spark-core](https://github.com/Xabean/MvnRepo/tree/master/xabean/spark-core_2.11)
+8. [spark-sql](https://github.com/Xabean/MvnRepo/tree/master/xabean/spark-sql_2.11)
+9. [ml](https://github.com/Xabean/MvnRepo/tree/master/xabean/ml_2.11)
 
 #### 安装教程
 

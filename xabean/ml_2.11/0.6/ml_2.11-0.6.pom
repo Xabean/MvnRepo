@@ -5,7 +5,7 @@
     <artifactId>ml_2.11</artifactId>
     <packaging>jar</packaging>
     <description>ml</description>
-    <version>0.5</version>
+    <version>0.6</version>
     <name>ml</name>
     <organization>
         <name>xabean</name>

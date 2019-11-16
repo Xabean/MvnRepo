@@ -5,7 +5,7 @@
     <artifactId>batsh_2.11</artifactId>
     <packaging>jar</packaging>
     <description>batsh</description>
-    <version>0.1</version>
+    <version>0.2</version>
     <name>batsh</name>
     <organization>
         <name>xabean</name>

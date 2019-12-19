@@ -16,18 +16,18 @@
 <dependency>
     <groupId>xabean</groupId>
     <artifactId>spark-sql_2.11</artifactId>
-    <version>1.7</version>
+    <version>1.8</version>
 </dependency>
 ```
 2. Gradle Kotlin DSL build script
 ```
 // https://github.com/Xabean/MvnRepo/tree/master
-implementation("xabean:spark-sql_2.11:1.7")
+implementation("xabean:spark-sql_2.11:1.8")
 ```
 3. sbt
 ```
 // https://github.com/Xabean/MvnRepo/tree/master
-libraryDependencies += "xabean" % "spark-sql_2.11" % "1.7"
+libraryDependencies += "xabean" % "spark-sql_2.11" % "1.8"
 ```
 
 #### 使用说明

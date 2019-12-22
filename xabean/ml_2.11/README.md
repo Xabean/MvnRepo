@@ -16,18 +16,18 @@
 <dependency>
     <groupId>xabean</groupId>
     <artifactId>ml_2.11</artifactId>
-    <version>0.6</version>
+    <version>0.7</version>
 </dependency>
 ```
 2. Gradle Kotlin DSL build script
 ```
 // https://github.com/Xabean/MvnRepo/tree/master
-implementation("xabean:ml_2.11:0.6")
+implementation("xabean:ml_2.11:0.7")
 ```
 3. sbt
 ```
 // https://github.com/Xabean/MvnRepo/tree/master
-libraryDependencies += "xabean" % "ml_2.11" % "0.6"
+libraryDependencies += "xabean" % "ml_2.11" % "0.7"
 ```
 
 #### 使用说明

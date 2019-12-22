@@ -16,18 +16,18 @@
 <dependency>
     <groupId>xabean</groupId>
     <artifactId>spark-core_2.11</artifactId>
-    <version>0.8</version>
+    <version>0.9</version>
 </dependency>
 ```
 2. Gradle Kotlin DSL build script
 ```
 // https://github.com/Xabean/MvnRepo/tree/master
-implementation("xabean:spark-core_2.11:0.8")
+implementation("xabean:spark-core_2.11:0.9")
 ```
 3. sbt
 ```
 // https://github.com/Xabean/MvnRepo/tree/master
-libraryDependencies += "xabean" % "spark-core_2.11" % "0.8"
+libraryDependencies += "xabean" % "spark-core_2.11" % "0.9"
 ```
 
 #### 使用说明
